@@ -66,8 +66,10 @@ Author
  To visit the original repo click <u>[here](https://github.com/clay-boy/Phase-3-Python-Fundamentals-)</u>
 
 <u>
-Keith-Mwai
+
+[Keith-Mwai](https://github.com/clay-boy)
 </u>
+
 
 <u>*****Acknowledgments****
 This assessment was created to demonstrate fundamental Python programming skills.**
