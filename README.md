@@ -1,7 +1,14 @@
 # Python Coding Assessment
 ##  Overview
-This repository contains solutions to a Python coding assessment covering various topics such as functions, decorators, sequences, sets, dictionaries, and object-oriented programming.
-
+This repository contains solutions to a Python coding assessment covering various topics such as :
+<u>
+- functions, 
+- decorators, 
+- sequences, 
+- sets, 
+- dictionaries,
+- object-oriented programming.
+</u>
 ##  Requirements
 Python 3.x installed on your machine.
 An IDE or text editor of your choice (such as VS Code, PyCharm, or Sublime Text).
@@ -31,7 +38,7 @@ Activate the virtual environment:
 
 - There are no external dependencies required for this project.
 
-### Phase-3-Code-Challenge-Python-Fundamentals
+## Phase-3-Code-Challenge-Python-Fundamentals
 <u>**Functions Implemented**</u>
 - **add_numbers**(num1, num2): Returns the sum of two numbers.
 
@@ -58,7 +65,9 @@ This project is licensed under the MIT License
 Author
  To visit the original repo click <u>[here](https://github.com/clay-boy/Phase-3-Python-Fundamentals-)</u>
 
+<u>
 Keith-Mwai
+</u>
 
 <u>*****Acknowledgments****
 This assessment was created to demonstrate fundamental Python programming skills.**
