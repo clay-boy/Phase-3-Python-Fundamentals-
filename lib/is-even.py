@@ -3,3 +3,9 @@ def is_even(number):
         return True
     else:
         return False
+    
+print(is_even(4))   
+print(is_even(7))   
+print(is_even(0))   
+print(is_even(-2)) 
+print(is_even(15))  
